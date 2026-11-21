@@ -1,0 +1,146 @@
+body {
+background-color: #2B2B2E;
+font-color: #fffff;
+font-size: 16px;
+max-width: 600px;
+margin: 0 auto;
+}
+
+h1{
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0;
+
+text-align: center; 
+font-family: "Playfair Display", Georgia, serif;
+font-size: 4rem;
+text-shadow: 3px 3px 0px #2B2B2E;
+}
+
+.photo{
+display: flex;
+Flex-direction: column;
+
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0
+}
+
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+}
+
+.flex-item {
+flex: 1 1 auto;
+min-width: 0;
+}
+
+.flex-item img {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+p{
+color: white;
+text-align: left; 
+font-family: "Noto Sans", Verdana, sans serif;
+}
+
+Ul{
+color: white;
+text-align: left; 
+font-family: "Noto Sans", Verdana, sans serif;
+}
+blockquote{
+font-style: italic;
+color: white;
+text-align: center; 
+font-family: "Playfair Display", Georgia, serif;
+}
+
+details{ 
+color: #f2c14e;
+text-align: left; 
+font-family: "Playfair Display", Georgia, serif;
+
+}
+
+a{
+color: #f2c14e;
+}
+a:hover{
+background-color: #2B2B2E;
+}
+
+.intro {
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0;
+
+font-family: "Playfair Display", Georgia, serif;
+}
+
+.list {
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0;
+
+font-family: "Playfair Display", Georgia, serif;
+}
+
+.projects {
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0;
+
+font-family: "Playfair Display", Georgia, serif;
+}
+
+.gallery{
+display: flex;
+Flex-direction: column;
+}
+
+.flex-container {
+display: flex;
+flex-wrap: wrap;
+}
+
+.flex-item {
+flex: 1 1 auto;
+min-width: 0;
+}
+
+.flex-item img {
+display: block;
+max-width: 100%;
+height: auto;
+}
+
+.contacts {
+background-color: #6B5B7B;
+color: white;
+border: 3px solid #f2c14e;
+border-radius: 12px;
+padding: 15px;
+margin: 40px 0;
+
+font-family: "Playfair Display", Georgia, serif;
+}
